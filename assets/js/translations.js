@@ -53,7 +53,7 @@ const translations = {
                 link: false,
             },
             {
-                image: "https://i.ibb.co/Pv9QdCnx/image.png",
+                image: "https://i.ibb.co/6JFJZ8hc/global.png",
                 title: "Grand Theft Auto: The Trilogy - The Definitive Edition Launcher",
                 description: "A streamlined application that lets you quickly launch any of the Definitive Edition games - GTA III, Vice City, or San Andreas - all from one convenient interface. Perfect for fans who want instant access to their favorite classics.",
                 link: false,
