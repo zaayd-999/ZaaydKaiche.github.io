@@ -20,6 +20,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
+window.onload = () => {
+    document.getElementById('langToggle').click();
+}
+
 document.addEventListener('DOMContentLoaded', function () {
     const sections = document.querySelectorAll('section');
     const navLinks = document.querySelectorAll('nav a');

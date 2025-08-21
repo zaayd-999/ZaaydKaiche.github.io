@@ -119,7 +119,7 @@ const translations = {
                 title: "Grand Theft Auto: The Trilogy - The Definitive Edition Launcher",
                 description: "Une application simplifiée qui vous permet de lancer rapidement n'importe lequel des jeux de la Definitive Edition - GTA III, Vice City ou San Andreas - le tout depuis une interface pratique. Parfait pour les fans qui veulent un accès instantané à leurs classiques préférés.",
                 link: "https://github.com/zaayd-999/Grand-Theft-Auto-The-Trilogy---The-Definitive-Edition-Launcher",
-            },
+            }
         ],
         copyright: "Tous droits réservés",
     }
