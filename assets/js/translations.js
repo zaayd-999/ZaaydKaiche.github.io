@@ -13,7 +13,7 @@ const translations = {
             {
                 icon : "fa-solid fa-briefcase",
                 title : "Years of Experience :",
-                value : "+5 years"
+                value : "+7 years"
             },
             {
                 icon : "fa-solid fa-diagram-project",
@@ -75,7 +75,7 @@ const translations = {
             {
                 icon: "fa-solid fa-briefcase",
                 title: "Années d'expérience :",
-                value: "+5 ans"
+                value: "+7 ans"
             },
             {
                 icon: "fa-solid fa-diagram-project",
